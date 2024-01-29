@@ -39,7 +39,7 @@ git remote -v
 ```
 3. If you don't see an `upstream`, you can add one that points to Shopify's Dawn repository:
 ```sh
-git remote add upstream https://github.com/Shopify/dawn.git
+git remote add upstream https://github.com/Shopify/MMA-Dawn.git
 ```
 4. Pull in the latest Dawn changes into your repository:
 ```sh
